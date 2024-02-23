@@ -2,7 +2,6 @@
 - 👀 I’m interested in cars, cars and cars
 - 🌱 I’m currently learning Pyhton, HTML, CSS, JS
 - 📫 How to reach me clement.arno06@gmail.com
-- 😄 Pronouns: nah
 - ⚡ Fun fact: Did you know i like cars?
 
 <!---
